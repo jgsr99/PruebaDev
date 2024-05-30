@@ -1,0 +1,5 @@
+composer.phar
+/vendor/
+vendor
+app/composer.lock
+prepros.config

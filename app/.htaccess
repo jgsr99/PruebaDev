@@ -1,0 +1,5 @@
+Options -Indexes
+order deny,allow
+deny from all
+allow from 127.0.0.1
+php_flag gd.jpeg_ignore_warning 1
